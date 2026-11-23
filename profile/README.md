@@ -19,13 +19,16 @@ Plugins in the repo:
 
 | Plugin | What it does |
 | --- | --- |
-| Ice's Cosmic Exploration (fork) | Cosmic Exploration automation, with relic XP/sec scoring plus "level all crafters" and "farm all relics" modes |
-| Artisan (fork) | Crafting automation with better FC Workshop crafting |
-| SealHunter | Automates GC and class/job hunting logs |
-| AutoPincher | One click retainer undercut, fully local |
-| InventoryCleaner | Tidies your inventory automatically |
-| FeteTimer | Never miss a Firmament Fête |
-| PartyPlanner Reborn | Browse partake.gg events in-client |
+| [Gardener](https://github.com/XivHub/Gardener) | Reminds you when your garden beds need care, and tends a whole patch in one go. |
+| [RetainerReach](https://github.com/XivHub/RetainerReach) | Shows all your retainers' items in one grid and retrieves them in one click. Needs AllaganTools. |
+| [AutoPincher](https://github.com/XivHub/AutoPincher) | Reprices all your retainer listings 1 gil under the cheapest seller, in one click. |
+| [InventoryCleaner](https://github.com/XivHub/InventoryCleaner) | Clears gear your gearsets don't use out of the Armoury Chest. |
+| [GlamourLink](https://github.com/XivHub/GlamourLink) | Wears the outfit from an Eorzea Collection link. Needs Glamourer. |
+| [SealHunter](https://github.com/XivHub/SealHunter) | Clears your Grand Company or class/job hunting log for you. |
+| [FeteTimer](https://github.com/XivHub/FeteTimer) | Alerts you before each Firmament Fête starts. |
+| [Blackjack Advisor](https://github.com/XivHub/BlackjackAdvisor) | Tells you the best move for each blackjack hand and tracks your gil. |
+| [Ice's Cosmic Exploration (XivHub fork)](https://github.com/XivHub/Ices-Cosmic-Exploration) | Runs Cosmic Exploration missions for you and picks the ones that level your relic fastest. |
+| [Artisan (XivHub fork)](https://github.com/XivHub/Artisan) | Crafting automation. This fork adds saved FC Workshop presets and fixes under-crafted intermediates. |
 
 ## Community
 
